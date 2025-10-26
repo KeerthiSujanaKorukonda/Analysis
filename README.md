@@ -11,4 +11,23 @@ This project is a **Streamlit web application** for uploading, preprocessing, an
 - **Detailed Insights:** Explore sentiment trends, platform/location breakdowns, classification reports, and ask custom questions to an integrated AI assistant (Groq API).
 
 
+## Follow sidebar navigation to:
+- Upload your dataset (Excel)
+- Explore data summaries
+- Train and evaluate sentiment models
+- Get insights and AI-assisted answers
+
+## How It Works
+
+- **Upload Data:** Import ChatGPT reviews dataset in Excel format.
+- **Preprocess:** Text preprocessing, including cleaning, handling negations, and lemmatization.
+- **Feature Engineering:** TF-IDF and hand-crafted sentiment features.
+- **Model Training:** Choose between XGBoost, Random Forest, or Logistic Regression for sentiment classification.
+- **Visualization:** View and interact with data summaries, rating/platform/location distributions, and model performance metrics.
+- **Custom Insights:** Ask questions through the integrated chat assistant for deeper analysis.
+
+
+
+
+
 
